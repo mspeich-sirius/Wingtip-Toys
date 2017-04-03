@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs
+/WingtipToys/obj
+/WingtipToys/Properties/PublishProfiles
+/WingtipToys/bin
+/WingtipToys/App_Data
+/WingtipToys/obj
+/WingtipToys/*.csproj*
